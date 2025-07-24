@@ -1,11 +1,9 @@
-<script setup lang="ts">
-import SupportIcon from './icons/IconSupport.vue'
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <WelcomeItem>
     <template #icon>
-      <SupportIcon />
+      <IconSupport />
     </template>
     <template #heading>Support Vue</template>
 
